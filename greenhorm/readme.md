@@ -1,6 +1,6 @@
-![Screenshot 2024-01-01 121442](https://github.com/dev-aashutosh/c-lang-/assets/149941495/8724a0f4-4189-49ca-962f-797ebdbfadea)
+![image](https://github.com/dev-aashutosh/c-language/assets/149941495/866bd133-7bd5-40a0-9bef-c42c9dc9fd7f)
 output fop question 1
-![Screenshot 2024-01-01 121355](https://github.com/dev-aashutosh/c-lang-/assets/149941495/99750961-a4d8-45b5-9a23-7a8916eb3008)
+![image](https://github.com/dev-aashutosh/c-language/assets/149941495/6e8574f9-2cd9-4733-a365-0c3e246c287c)
 output fop question 2
-![Screenshot 2024-01-01 121420](https://github.com/dev-aashutosh/c-lang-/assets/149941495/7bb1e3fe-0601-47a6-82cb-35a2cf7d6c1e)
+![image](https://github.com/dev-aashutosh/c-language/assets/149941495/fc16b7b8-5166-4c40-9341-4b2498b1d6ea)
 output fop question 3
