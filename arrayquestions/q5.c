@@ -1,3 +1,4 @@
+// Find the index of a specific element in the array
 #include "stdio.h"
 int main()
 {
@@ -18,18 +19,19 @@ int main()
     printf("Enter the value to search : ");
     scanf("%d", &searchvalue);
 
+    printf("Values indices \n");
     for (int i = 0; i < n; i++)
     {
         if (array[i] == searchvalue)
         {
             index = i;
             printf("%d\n", index);
-            for (int j = 0; j < n; j++)
-            {
-                indexA[j] = index;
-                count++;
-                continue;
-            }
+            // for (int j = 0; j < n; j++)
+            // {
+            //     indexA[j] = index;
+            //     count++;
+            //     continue;
+            // }
             // while (j < n)
             // {
             //     indexA[j] = index;
@@ -39,9 +41,9 @@ int main()
             // }
         }
     }
-    printf("\ncount = %d\n", count);
-    for (int i = 0; i < count; i++)
-    {
-        printf("indexA[%d] = %d\n", i, indexA[i]);
-    }
+    // printf("\ncount = %d\n", count);
+    // for (int i = 0; i < count; i++)
+    // {
+    //     printf("indexA[%d] = %d\n", i, indexA[i]);
+    // }
 }
