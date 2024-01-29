@@ -2,7 +2,7 @@
 #include "stdio.h"
 int main()
 {
-    int n, newsize = 0;
+    int n;
     printf("Enter the value of n : ");
     scanf("%d", &n);
     int array[n];
