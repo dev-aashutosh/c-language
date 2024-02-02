@@ -1,3 +1,4 @@
+// Write a Program to count the frequency of each character in a given string.
 #include <stdio.h>
 #include <string.h>
 

@@ -1,4 +1,4 @@
-// Write a Program to find the cube of a given number using UDF.
+// Write a Program to check if a given number is divisible by both 3 & 5 or not using UDF.
 #include <stdio.h>
 
 int divisibility(int num)
