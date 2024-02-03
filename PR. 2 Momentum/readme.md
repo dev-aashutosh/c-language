@@ -1,5 +1,7 @@
 <img src="./assets/1.png"></img>
 
-<p>output for question 1</p>
+## Output for q1.c
+
 <img src="./assets/2.png"></img>
-<p>output for question 2</p>
+
+## Output for q2.c

@@ -12,7 +12,7 @@ int main()
         scanf("%d", &array[i]);
         sum += array[i];
     }
-    printf("Array\n");
+    printf("Array : \n");
     for (int i = 0; i < n; i++)
     {
         printf("array[%d] : %d\n", i, array[i]);

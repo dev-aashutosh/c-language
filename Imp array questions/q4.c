@@ -19,7 +19,7 @@ int main()
         printf("array[%d] : %d\n", i, array[i]);
     }
 
-    printf("Enter the value : ");
+    printf("Enter the value to add : ");
     scanf("%d", &value);
 
     array[n] = value;
