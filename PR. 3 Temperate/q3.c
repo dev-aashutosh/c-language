@@ -11,5 +11,5 @@ int main()
     {
         num = num / 10;
     }
-    printf("%d", num + lastnum);
+    printf("the sum of a first and the last digit : %d", num + lastnum);
 }
