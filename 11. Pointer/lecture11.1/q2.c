@@ -14,6 +14,6 @@ int main()
     *pointer = y;
     y = temp;
 
-    printf("%d", x);
-    printf("%d", y);
+    printf("x : %d\n", x);
+    printf("y : %d", y);
 }

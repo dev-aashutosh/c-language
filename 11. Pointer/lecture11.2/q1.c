@@ -15,8 +15,9 @@ int main()
     int *pointer;
     pointer = &array[0]; // connecting
 
+    printf("Reverse : \n");
     for (int i = n - 1; i >= 0; i--)
     {
-        printf("\n%d", *(pointer + i));
+        printf("%d\n", *(pointer + i));
     }
 }

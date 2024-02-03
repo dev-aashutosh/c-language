@@ -15,6 +15,7 @@ int main()
     int *pointer;
     pointer = &array[0]; // connecting
 
+    printf("Square of elelments : ");
     for (int i = 0; i < n; i++)
     {
         printf("\n%d", (*(pointer + i)) * (*(pointer + i)));
