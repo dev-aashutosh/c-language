@@ -1,5 +1,7 @@
-<img src="Screenshot 2024-01-07 115027.png"></img>
+![output](./assets/image.png)
 
-<p>output for question 1</p>
-<img src="Screenshot 2024-01-08 100822.png"></img>
-<p>output for question 2</p>
+## Output for q1.c
+
+![output](./assets/image-1.png)
+
+## Output for q2.c
