@@ -1,3 +1,4 @@
+// Write a Program to find cubes of all elements from a given 2D array using Pointer with UDF.
 #include <stdio.h>
 
 void cube(int row, int column, int array[row][column]);
