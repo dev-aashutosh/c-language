@@ -10,7 +10,7 @@ int main()
 
     for (int i = 1; i < 4; i++)
     {
-        printf("Enter a number : ");
+        printf("Enter a even number : ");
         scanf("%d", &n);
 
         if (n % 2 == 0)
