@@ -1,4 +1,6 @@
-/*Write a menu-driven program to implement arithmetic operations such as +, -, *, /, and % using UDF, switch case, and looping. Make sure that the program is endless until a certain letter is pressed.*/
+/*Write a menu-driven program to implement arithmetic operations such as +, -, *, /,
+ and % using UDF, switch case, and looping. Make sure that the program is endless
+ until a certain letter is pressed.*/
 #include <stdio.h>
 
 int add(int num1, int num2);
