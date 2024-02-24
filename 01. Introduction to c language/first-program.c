@@ -11,9 +11,9 @@ int main()
 {
     printf("---------\n");
     printf("|\t|\n");
-    printf("R\t|\n");
-    printf("N\t|\n");
-    printf("W\t|\n");
+    printf("A\t|\n");
+    printf("B\t|\n");
+    printf("C\t|\n");
     printf("|\t|\n");
     printf("---------\n");
 }
