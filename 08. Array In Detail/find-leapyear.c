@@ -1,46 +1,27 @@
-// Write Program to perform the addition operation of two 2D arrays &store it in another array.Keep in mind that both array sizes must be the same.
+// Write a Program to find leap years between two given numbers and store them in an array.And then print that array.Write a Program to find leap years between two given numbers and store them in an array.And then print that array.
 #include <stdio.h>
 
 int main()
 {
-    int row, column;
-    printf("Enter the number of rows: ");
-    scanf("%d", &row);
-    printf("Enter the number of columns: ");
-    scanf("%d", &column);
+    int ys, ye, n = 0;
+    printf("Enter the starting year : ");
+    scanf("%d", &ys);
 
-    int a1[row][column];
-    int a2[row][column];
-    int a3[row][column];
+    printf("Enter the ending year : ");
+    scanf("%d", &ye);
 
-    printf("Enter elements for array 1:\n");
-    for (int i = 0; i < row; i++)
+    int array[100];
+
+    for (int i = ys; i <= ye; i++)
     {
-        for (int j = 0; j < column; j++)
+        if (i % 4 == 0)
         {
-            printf("array1[%d][%d]: ", i, j);
-            scanf("%d", &a1[i][j]);
+            array[n++] = i;
         }
     }
 
-    printf("Enter elements for array 2:\n");
-    for (int i = 0; i < row; i++)
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < column; j++)
-        {
-            printf("array2[%d][%d]: ", i, j);
-            scanf("%d", &a2[i][j]);
-        }
-    }
-
-    printf("Elements of array3 (Sum of array1 and array2):\n");
-    for (int i = 0; i < row; i++)
-    {
-        for (int j = 0; j < column; j++)
-        {
-            a3[i][j] = a1[i][j] + a2[i][j];
-            printf("%d\t", a3[i][j]);
-        }
-        printf("\n");
+        printf("%d ", array[i]);
     }
 }
