@@ -7,11 +7,11 @@ int main()
 
     printf("Enter first number : ");
     scanf("%d", &num1);
-    printf("Enter first number : ");
+    printf("Enter second number : ");
     scanf("%d", &num2);
-    printf("Enter first number : ");
+    printf("Enter third number : ");
     scanf("%d", &num3);
-    printf("Enter first number : ");
+    printf("Enter fourth number : ");
     scanf("%d", &num4);
 
     if (num1 > num2)
