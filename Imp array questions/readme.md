@@ -1,39 +1,31 @@
-![output](./assets/image.png)
+# Outputs of the programs
 
-## Output for q1.c
+### add-element-specific-index.c
+![image-6](https://github.com/dev-aashutosh/c-language/assets/149941495/2b8de85c-7f04-4339-9d29-9c927f23dfc0)
 
-![output](./assets/image-1.png)
+### append-element.c
+![image-3](https://github.com/dev-aashutosh/c-language/assets/149941495/29e5b5ff-51d4-4825-a429-e7bb79af7972)
 
-## Output for q2.c
+### create-init-array.c
+![image](https://github.com/dev-aashutosh/c-language/assets/149941495/301a721b-f3a8-4676-87df-fcc792bde177)
 
-![output](./assets/image-2.png)
+### delete-same-occurence.c
+![image-8](https://github.com/dev-aashutosh/c-language/assets/149941495/5656100f-05b0-4a26-ad23-83e9a36e51be)
 
-## Output for q3.c
+### delete-specific-element.c
+![image-2](https://github.com/dev-aashutosh/c-language/assets/149941495/06213678-44e8-4f3b-87a7-52e01b17978a)
 
-![output](./assets/image-3.png)
+### find-index-of-element.c
+![image-4](https://github.com/dev-aashutosh/c-language/assets/149941495/4d25f9ab-4b8f-499d-94ab-8c51e32263de)
 
-## Output for q4.c
+### find-min-max.c
+![image-9](https://github.com/dev-aashutosh/c-language/assets/149941495/1508bcf8-1770-49e1-a566-9a5db12e8c15)
 
-![output](./assets/image-4.png)
+### sum-of-elements.c
+![image-5](https://github.com/dev-aashutosh/c-language/assets/149941495/71b5eb13-3643-4b39-8d05-ecef5de7ad89)
 
-## Output for q5.c
+### update-element.c
+![image-1](https://github.com/dev-aashutosh/c-language/assets/149941495/77f46914-211a-4123-948b-b51dc185687e)
 
-![output](./assets/image-5.png)
-
-## Output for q6.c
-
-![output](./assets/image-6.png)
-
-## Output for q7.c
-
-![output](./assets/image-7.png)
-
-## Output for q8.c
-
-![output](./assets/image-8.png)
-
-## Output for q9.c
-
-![output](./assets/image-9.png)
-
-## Output for q10.c
+### update-specific-element.c
+![image-7](https://github.com/dev-aashutosh/c-language/assets/149941495/9a6a7a32-3a43-40c2-b5b0-190b69bbe3ae)
